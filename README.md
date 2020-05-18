@@ -1,5 +1,3 @@
-# Intro-to-Programming
+# CSCI-UA 02 Intro to Computer Programming
 
->Introduction to Computer Programming for students without prior experience
-
-Welcome to the world of Python! In this repo, you will find interesting codes for beginners in <code>python3</code>.
+>A CS course for students without prior programming experience by <code>python3</code>.
